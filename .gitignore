@@ -1,0 +1,7 @@
+# User-uploaded album covers (runtime data; seed covers are kept)
+covers/album_*
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+*.log
